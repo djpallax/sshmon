@@ -1,0 +1,9 @@
+/build/
+/.cache/
+*.o
+*.swp
+*.user
+*.kate-swp
+.DS_Store
+
+build/
